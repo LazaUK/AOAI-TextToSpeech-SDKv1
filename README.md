@@ -11,4 +11,11 @@ pip install --upgrade openai
 - [Part 2: Generating speech through Python SDK]()
 - [Part 3: Generating speech through REST API]()
 
+## Part 1: Configuring solution environment
+> Note: detailed description on the code logic to be provided soon..
+
+## Part 2: Generating speech through Python SDK
+> Note: detailed description on the code logic to be provided soon..
+
+## Part 3: Generating speech through REST API
 > Note: detailed description on the code logic to be provided soon..
