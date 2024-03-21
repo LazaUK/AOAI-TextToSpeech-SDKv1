@@ -7,8 +7,8 @@ pip install --upgrade openai
 ```
 
 ## Table of contents:
-- [Part 1: Configuring solution environment](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1/tree/main#part-1-configuring-solution-environment)
-- [Part 2: Generating speech through Python SDK](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1/tree/main#part-2-generating-speech-through-python-sdk)
+- [Part 1: Configuring solution environment](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1#part-1-configuring-solution-environment)
+- [Part 2: Generating speech through Python SDK](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1#part-2-generating-speech-through-python-sdk)
 - [Part 3: Generating speech through REST API]()
 
 ## Part 1: Configuring solution environment
