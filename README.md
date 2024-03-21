@@ -9,7 +9,7 @@ pip install --upgrade openai
 ## Table of contents:
 - [Part 1: Configuring solution environment](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1#part-1-configuring-solution-environment)
 - [Part 2: Generating speech through Python SDK](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1#part-2-generating-speech-through-python-sdk)
-- [Part 3: Generating speech through REST API]()
+- [Part 3: Generating speech through REST API](https://github.com/LazaUK/AOAI-TextToSpeech-SDKv1#part-3-generating-speech-through-rest-api)
 
 ## Part 1: Configuring solution environment
 1. To use Azure OpenAI backend, assign the API endpoint name, key and version, along with the Azure OpenAI deployment name of TTS model to **AZURE_OPENAI_API_BASE**, **AZURE_OPENAI_API_KEY**, **AZURE_OPENAI_API_VERSION** and **AZURE_OPENAI_API_DEPLOY_TTS** environment variables respectively.
